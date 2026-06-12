@@ -17,3 +17,4 @@ jobs:
       - uses: astral-sh/setup-uv@v8.2.0
       - run: uv run scripts/fmt_data.py
       - run: git diff --exit-code
+      - run: uv run scripts/check_consistency.py

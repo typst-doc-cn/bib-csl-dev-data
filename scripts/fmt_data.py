@@ -104,13 +104,15 @@ def fmt_bib(file: Path) -> None:
 
 
 if __name__ == "__main__":
-    data_dir = Path(__file__).parent.parent / "data"
+    from util import DATA_DIR
 
-    for file in data_dir.iterdir():
-        print(f"Formatting {file.relative_to(data_dir).as_posix()}…")
+    for file in DATA_DIR.iterdir():
+        print(f"Formatting {file.relative_to(DATA_DIR).as_posix()}…")
 
-        if file.suffix == ".bib":
-            fmt_bib(file)
-        else:
-            assert file.suffix == ".json"
-            fmt_json(file)
+        match file.suffix:
+            case ".bib":
+                fmt_bib(file)
+            case ".json":
+                fmt_json(file)
+            case _:
+                assert file.suffix == ".toml"
