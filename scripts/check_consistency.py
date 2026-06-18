@@ -8,6 +8,8 @@ Specifically, this script checks the following statements.
   - The `id-prefix` fields are properly formed.
   - The `headings` fields are consistent with `id-prefix` fields.
   - Entries included in multiple sections are consistent.
+- `*.json`:
+  - `id` and `citation-key` are always consistent.
 
 Usage:
     uv run scripts/check_consistency.py
@@ -281,9 +283,11 @@ def load_ids_from_original(original_library: dict[str, list[str]], /) -> set[str
 
 def load_ids_from_json(file: Path) -> set[str]:
     """Load the set of IDs in a CSL-JSON file."""
-    id_list: list[str] = [
-        entry["id"] for entry in json.loads(file.read_text(encoding="utf-8"))
-    ]
+    library = json.loads(file.read_text(encoding="utf-8"))
+    for entry in library:
+        assert entry["id"] == entry["citation-key"]
+
+    id_list: list[str] = [entry["id"] for entry in library]
     id_set = set(id_list)
     assert len(id_set) == len(id_list)
     return id_set
