@@ -177,7 +177,7 @@ def check_original_consistency(original_library: dict[str, list[str]], /) -> Non
     check_eq("gbt7714.8.6.1:5", "gbt7714.b.5:12", ignore_space=True)
 
     check_eq("gbt7714.8.6.3:1", "gbt7714.b.5:1")
-    check_eq("gbt7714.8.6.3:2", "gbt7714.b.5:8", ignore_space=True)
+    check_eq("gbt7714.8.6.3:2", "gbt7714.b.5:8")
     check_eq("gbt7714.8.6.3:3", "gbt7714.b.5:9", ignore_space=True)
 
     # %% 8.7 学位论文
