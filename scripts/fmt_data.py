@@ -42,7 +42,7 @@ def fmt_json(file: Path) -> None:
         library[i] = {k: entry[k] for k in keys}
 
     file.write_text(
-        json.dumps(library, ensure_ascii=False, indent="\t"),
+        json.dumps(library, ensure_ascii=False, indent="\t").strip() + "\n",
         encoding="utf-8",
     )
 
@@ -100,7 +100,7 @@ def fmt_bib(file: Path) -> None:
     library = file.read_text(encoding="utf-8")
     entries = list(split_bib(library))
     entries.sort(key=lambda entry: id_order(get_bib_id(entry)))
-    file.write_text("\n\n".join(entries), encoding="utf-8")
+    file.write_text("\n\n".join(entries).strip() + "\n", encoding="utf-8")
 
 
 if __name__ == "__main__":
