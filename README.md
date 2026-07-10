@@ -81,9 +81,18 @@
 
 - Zotero 9.0.5
 - Better BibTeX for Zotero 9.0.36
-- 群组文库最后修改于 2026-07-01 23:09:20
+- 群组文库最后修改于 2026-07-01 23:09:20 +08:00
 
-使用数据时，建议固定到此仓库特定 commit。
+<details>
+<summary>检查更新</summary>
+
+- Zotero [![GitHub Tag](https://img.shields.io/github/v/tag/zotero/zotero?logo=github)](https://www.zotero.org/support/changelog)
+- Better BibTeX for Zotero [![GitHub Release](https://img.shields.io/github/v/release/retorquere/zotero-better-bibtex?logo=github) ![GitHub Release Date](https://img.shields.io/github/release-date/retorquere/zotero-better-bibtex?logo=github)](https://github.com/retorquere/zotero-better-bibtex/releases)
+- 群组文库 [![date modified](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4677213%2Fitems%2Ftop%3Flimit%3D10%26order%3DdateModified&query=%24%5B0%5D.data.dateModified&label=date%20modified&logo=zotero)](https://www.zotero.org/groups/4677213/chinese_csl_development)
+
+</details>
+
+使用数据时，建议用 [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) 等方式固定到此仓库特定 commit。
 
 ## 相关数据
 
