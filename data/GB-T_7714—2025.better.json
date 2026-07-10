@@ -45,9 +45,9 @@
 		},
 		"language": "ja-JP",
 		"page": "154",
-		"publisher": "柏書房株式会社",
+		"publisher": "柏書房株式會社",
 		"publisher-place": "東京",
-		"title": "最新図書館用語大辞典",
+		"title": "最新図書館用語大辭典",
 		"type": "book"
 	},
 	{
@@ -1517,7 +1517,7 @@
 	{
 		"id": "gbt7714.8.2.2:4",
 		"citation-key": "gbt7714.8.2.2:4",
-		"edition": "同文书局影印本",
+		"edition": "影印本",
 		"issued": {
 			"date-parts": [
 				[
@@ -1600,7 +1600,7 @@
 		"language": "en-US",
 		"publisher": "McGraw-Hill",
 		"publisher-place": "New York",
-		"title": "Probability, random variable, and random signal principles",
+		"title": "Probability, random variables, and random signal principles",
 		"type": "book"
 	},
 	{
@@ -1858,7 +1858,7 @@
 		"page": "1.1-1.36",
 		"publisher": "McGraw-Hill",
 		"publisher-place": "New York",
-		"title": "Drinking water standards, regulations and goals",
+		"title": "Drinking water quality standards, regulations and goals",
 		"type": "chapter",
 		"URL": "http://lib.myilibrary.com/Open.aspx?id=291430"
 	},
@@ -5071,7 +5071,7 @@
 	{
 		"id": "gbt7714.b.1:8",
 		"citation-key": "gbt7714.b.1:8",
-		"edition": "同文书局影印本",
+		"edition": "影印本",
 		"issued": {
 			"date-parts": [
 				[
@@ -5374,9 +5374,9 @@
 		},
 		"language": "ja-JP",
 		"page": "154",
-		"publisher": "柏書房株式会社",
+		"publisher": "柏書房株式會社",
 		"publisher-place": "東京",
-		"title": "最新図書館用語大辞典",
+		"title": "最新図書館用語大辭典",
 		"type": "book"
 	},
 	{
@@ -5402,7 +5402,7 @@
 		"language": "en-US",
 		"publisher": "McGraw-Hill",
 		"publisher-place": "New York",
-		"title": "Probability, random variable, and random signal principles",
+		"title": "Probability, random variables, and random signal principles",
 		"type": "book"
 	},
 	{
@@ -6012,7 +6012,7 @@
 		"page": "1.1-1.36",
 		"publisher": "McGraw-Hill",
 		"publisher-place": "New York",
-		"title": "Drinking water standards, regulations and goals",
+		"title": "Drinking water quality standards, regulations and goals",
 		"type": "chapter",
 		"URL": "http://lib.myilibrary.com/Open.aspx?id=291430"
 	},
