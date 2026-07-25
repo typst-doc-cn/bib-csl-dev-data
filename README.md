@@ -49,6 +49,10 @@
 
       留空（默认）或`file,abstract,keywords`，但不可填入`shorttitle`、`note`、`annotation`等
 
+    - [期刊缩写模式 | Journal abbreviation mode](https://retorque.re/zotero-better-bibtex/preferences/export/index.html#journal-abbreviation-mode)
+
+      总是使用 Zotero 缩写字段 | `always use the Zotero abbreviation field`（默认）
+
     - BibTeX/BibLaTeX
 
       - [导出语言为 | Export language as](https://retorque.re/zotero-better-bibtex/preferences/export/#export-language-as)
@@ -79,8 +83,8 @@
 
 ## 当前数据版本
 
-- Zotero 9.0.5
-- Better BibTeX for Zotero 9.0.36
+- Zotero 9.0.6
+- Better BibTeX for Zotero 9.0.50
 - 群组文库最后修改于 2026-07-01 23:09:20 +08:00
 
 <details>
