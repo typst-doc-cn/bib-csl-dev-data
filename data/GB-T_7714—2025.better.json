@@ -47,7 +47,7 @@
 		"page": "154",
 		"publisher": "柏書房株式會社",
 		"publisher-place": "東京",
-		"title": "最新図書館用語大辭典",
+		"title": "最新図書館用語大辞典",
 		"type": "book"
 	},
 	{
@@ -518,7 +518,7 @@
 		"id": "gbt7714.7.3:2",
 		"citation-key": "gbt7714.7.3:2",
 		"language": "zh-CN",
-		"title": "环境司法制度改革对企业绿色创新的影响：实质性绿色创新还是漂绿？——基于公益诉讼试点的证据",
+		"title": "环境司法制度改革对企业绿色创新的影响：实质性绿色创新还是漂绿？：基于公益诉讼试点的证据",
 		"title-short": "环境司法制度改革对企业绿色创新的影响",
 		"type": "book"
 	},
@@ -541,7 +541,7 @@
 		"id": "gbt7714.7.3:5",
 		"citation-key": "gbt7714.7.3:5",
 		"language": "zh-CN",
-		"title": "信息与文献 都柏林核心元数据元素集",
+		"title": "信息与文献　都柏林核心元数据元素集",
 		"type": "standard"
 	},
 	{
@@ -1424,8 +1424,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -1531,7 +1531,7 @@
 		"publisher-place": "北京",
 		"title": "康熙字典",
 		"type": "book",
-		"volume": "巳集上 水部"
+		"volume": "巳集上：水部"
 	},
 	{
 		"id": "gbt7714.8.2.2:5",
@@ -1706,7 +1706,7 @@
 		"page": "15–18",
 		"publisher": "机械工业出版社",
 		"publisher-place": "北京",
-		"title": "谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答",
+		"title": "谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答",
 		"title-short": "谈谈记忆",
 		"translator": [
 			{
@@ -1885,7 +1885,7 @@
 		"publisher-place": "武汉",
 		"title": "临床内科杂志",
 		"type": "periodical",
-		"volume": "1984，1（1）—"
+		"volume": "1984，1（1）-"
 	},
 	{
 		"id": "gbt7714.8.4.2:2",
@@ -1910,7 +1910,7 @@
 		"publisher-place": "北京",
 		"title": "图书馆学通讯",
 		"type": "periodical",
-		"volume": "1957（1）—1990（4）"
+		"volume": "1957（1）-1990（4）"
 	},
 	{
 		"id": "gbt7714.8.4.2:3",
@@ -1935,7 +1935,7 @@
 		"publisher-place": "Washington, D.C.",
 		"title": "Science",
 		"type": "periodical",
-		"volume": "1883，1（1）—"
+		"volume": "1883，1（1）-"
 	},
 	{
 		"id": "gbt7714.8.4.2:4",
@@ -1943,8 +1943,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -1965,7 +1965,7 @@
 		"title": "Public library quarterly",
 		"type": "periodical",
 		"URL": "http://www.tandfonline.com/loi/wplq",
-		"volume": "1979，1（1）—"
+		"volume": "1979，1（1）-"
 	},
 	{
 		"id": "gbt7714.8.5.1.1:1",
@@ -2211,8 +2211,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -3167,8 +3167,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -3245,8 +3245,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -3365,7 +3365,7 @@
 		"language": "zh-CN",
 		"number": "GB/T 3792—2021",
 		"status": "现行",
-		"title": "信息与文献 资源描述",
+		"title": "信息与文献　资源描述",
 		"type": "standard"
 	},
 	{
@@ -3422,7 +3422,7 @@
 		"language": "zh-CN",
 		"number": "GB/T 20090.16—2016",
 		"status": "现行",
-		"title": "信息技术 先进音视频编码 第16部分：广播电视视频",
+		"title": "信息技术　先进音视频编码　第16部分：广播电视视频",
 		"type": "standard",
 		"URL": "http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=1D4AC2D4256C8DE7E0AA286CA7649300"
 	},
@@ -3573,8 +3573,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -3628,8 +3628,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -3869,8 +3869,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -3903,8 +3903,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -3925,8 +3925,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -4157,7 +4157,7 @@
 		},
 		"language": "zh-CN",
 		"publisher": "国家基础学科公共科学数据中心",
-		"title": "天宫二号遥感图像自然景物分类科学数据",
+		"title": "天宫二号遥感图像自然景物分类数据集",
 		"type": "dataset",
 		"URL": "https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf",
 		"version": "1.0"
@@ -4767,7 +4767,7 @@
 		},
 		"language": "zh-CN",
 		"page": "315–320",
-		"title": "信息计量学（四）：第四讲文献信息离散分布规律——布拉德福定律",
+		"title": "信息计量学（四）：第四讲文献信息离散分布规律：布拉德福定律",
 		"type": "article-journal",
 		"volume": "23"
 	},
@@ -4801,7 +4801,7 @@
 		},
 		"language": "zh-CN",
 		"page": "475–478",
-		"title": "信息计量学（六）：第六讲文献信息作者分布规律——洛特卡定律",
+		"title": "信息计量学（六）：第六讲文献信息作者分布规律：洛特卡定律",
 		"type": "article-journal",
 		"volume": "23"
 	},
@@ -5080,7 +5080,7 @@
 		"publisher-place": "北京",
 		"title": "康熙字典",
 		"type": "book",
-		"volume": "巳集上 水部"
+		"volume": "巳集上：水部"
 	},
 	{
 		"id": "gbt7714.b.1:9",
@@ -5371,7 +5371,7 @@
 		"page": "154",
 		"publisher": "柏書房株式會社",
 		"publisher-place": "東京",
-		"title": "最新図書館用語大辭典",
+		"title": "最新図書館用語大辞典",
 		"type": "book"
 	},
 	{
@@ -5680,7 +5680,7 @@
 		"page": "15–18",
 		"publisher": "机械工业出版社",
 		"publisher-place": "北京",
-		"title": "谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答",
+		"title": "谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答",
 		"title-short": "谈谈记忆",
 		"translator": [
 			{
@@ -6034,7 +6034,7 @@
 		"publisher-place": "武汉",
 		"title": "临床内科杂志",
 		"type": "periodical",
-		"volume": "1984，1（1）—"
+		"volume": "1984，1（1）-"
 	},
 	{
 		"id": "gbt7714.b.3:2",
@@ -6059,7 +6059,7 @@
 		"publisher-place": "北京",
 		"title": "图书馆学通讯",
 		"type": "periodical",
-		"volume": "1957（1）—1990（4）"
+		"volume": "1957（1）-1990（4）"
 	},
 	{
 		"id": "gbt7714.b.3:3",
@@ -6084,7 +6084,7 @@
 		"publisher-place": "Washington, D.C.",
 		"title": "Science",
 		"type": "periodical",
-		"volume": "1883，1（1）—"
+		"volume": "1883，1（1）-"
 	},
 	{
 		"id": "gbt7714.b.3:4",
@@ -6092,8 +6092,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -6114,7 +6114,7 @@
 		"title": "Public library quarterly",
 		"type": "periodical",
 		"URL": "http://www.tandfonline.com/loi/wplq",
-		"volume": "1979，1（1）—"
+		"volume": "1979，1（1）-"
 	},
 	{
 		"id": "gbt7714.b.4:1",
@@ -6351,8 +6351,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -7020,8 +7020,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -7057,8 +7057,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -7635,8 +7635,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -7727,8 +7727,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -7836,8 +7836,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -7941,8 +7941,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -7979,7 +7979,7 @@
 		"language": "zh-CN",
 		"number": "GB/T 3792—2021",
 		"status": "现行",
-		"title": "信息与文献 资源描述",
+		"title": "信息与文献　资源描述",
 		"type": "standard"
 	},
 	{
@@ -8003,7 +8003,7 @@
 		"language": "zh-CN",
 		"number": "GB/T 20090.16—2016",
 		"status": "现行",
-		"title": "信息技术 先进音视频编码 第16部分：广播电视视频",
+		"title": "信息技术　先进音视频编码　第16部分：广播电视视频",
 		"type": "standard"
 	},
 	{
@@ -8036,7 +8036,7 @@
 		"language": "zh-CN",
 		"number": "GB 18030—2022",
 		"status": "现行",
-		"title": "信息技术  中文编码字符集",
+		"title": "信息技术　中文编码字符集",
 		"type": "standard",
 		"URL": "http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=A1931A578FE14957104988029B0833D3"
 	},
@@ -8273,8 +8273,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -8426,8 +8426,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -8538,8 +8538,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -8961,8 +8961,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -8995,8 +8995,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -9017,8 +9017,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -9218,8 +9218,8 @@
 			"date-parts": [
 				[
 					"2025",
-					2,
-					28
+					12,
+					2
 				]
 			]
 		},
@@ -9347,9 +9347,9 @@
 		},
 		"language": "zh-CN",
 		"publisher": "国家青藏高原科学数据中心",
-		"title": "中国第二次水川编目科学数据：2006—2011",
+		"title": "中国第二次冰川编目数据集：2006—2011",
 		"type": "dataset",
-		"URL": "https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/",
+		"URL": "https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/",
 		"version": "1.0"
 	},
 	{
@@ -9398,7 +9398,7 @@
 		},
 		"language": "zh-CN",
 		"publisher": "国家基础学科公共科学数据中心",
-		"title": "天宫二号遥感图像自然景物分类科学数据",
+		"title": "天宫二号遥感图像自然景物分类数据集",
 		"type": "dataset",
 		"URL": "https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf",
 		"version": "1.0"
@@ -9564,6 +9564,7 @@
 			}
 		],
 		"citation-key": "gbt7714.b.13:4",
+		"DOI": "10.11922/sciencedb.610",
 		"issued": {
 			"date-parts": [
 				[
