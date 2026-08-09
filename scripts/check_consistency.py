@@ -110,18 +110,18 @@ def check_original_consistency(original_library: dict[str, list[str]], /) -> Non
     check_eq(
         "gbt7714.8.1:1",
         "gbt7714.b.1:1",
-        ignore_re=[r"^(张伯伟),2002", r"(江苏古籍出版社,)2002:"],
+        ignore_re=[r"^(张伯伟),2002", r"(江苏古籍出版社),2002(?=:)"],
     )
     check_eq(
         "gbt7714.8.1:2",
         "gbt7714.b.2:3",
-        ignore_re=[r"^(程根伟),1999", r"(科学出版社,)1999:"],
+        ignore_re=[r"^(程根伟),1999", r"(科学出版社),1999(?=:)"],
         ignore_space=True,
     )
     check_eq(
         "gbt7714.8.1:3",
         "gbt7714.b.4:1",
-        ignore_re=[r"^(杨洪升),2013", r"(文献,)2013 "],
+        ignore_re=[r"^(杨洪升),2013", r"(文献),2013 "],
     )
     check_eq(
         "gbt7714.8.1:4",
@@ -132,7 +132,6 @@ def check_original_consistency(original_library: dict[str, list[str]], /) -> Non
         "gbt7714.8.1:5",
         "gbt7714.b.6:6",
         ignore_re=[r"^(Christou A),2024", r"(Wright State University),2024(?=:)"],
-        ignore_space=True,
     )
 
     # %% 8.2 图书
@@ -153,9 +152,9 @@ def check_original_consistency(original_library: dict[str, list[str]], /) -> Non
 
     # %% 8.4 连续出版物
     check_eq("gbt7714.8.4.2:1", "gbt7714.b.3:1")
-    check_eq("gbt7714.8.4.2:2", "gbt7714.b.3:2", ignore_space=True)
+    check_eq("gbt7714.8.4.2:2", "gbt7714.b.3:2")
     check_eq("gbt7714.8.4.2:3", "gbt7714.b.3:3")
-    check_eq("gbt7714.8.4.2:4", "gbt7714.b.3:4", ignore_space=True)
+    check_eq("gbt7714.8.4.2:4", "gbt7714.b.3:4")
 
     # %% 8.5.3 连续出版物中的析出文献之完整例子
     check_eq("gbt7714.8.5.3:1", "gbt7714.b.4:2")
@@ -185,13 +184,13 @@ def check_original_consistency(original_library: dict[str, list[str]], /) -> Non
     check_eq("gbt7714.8.7.2:2", "gbt7714.b.6:2", ignore_space=True)
     check_eq("gbt7714.8.7.2:3", "gbt7714.b.6:4", ignore_space=True)
     check_eq("gbt7714.8.7.2:4", "gbt7714.b.6:5", ignore_space=True)
-    check_eq("gbt7714.8.7.2:5", "gbt7714.b.6:6", ignore_space=True)
+    check_eq("gbt7714.8.7.2:5", "gbt7714.b.6:6")
 
     # %% 8.8 报告
     check_eq("gbt7714.8.8.3:1", "gbt7714.b.7:2", ignore_space=True)
     check_eq("gbt7714.8.8.3:2", "gbt7714.b.7:3")
     check_eq("gbt7714.8.8.3:3", "gbt7714.b.7:4", ignore_space=True)
-    check_eq("gbt7714.8.8.3:4", "gbt7714.b.7:5", ignore_space=True)
+    check_eq("gbt7714.8.8.3:4", "gbt7714.b.7:5")
 
     # %% 8.9 标准
     check_eq("gbt7714.8.9.2:1", "gbt7714.b.8:1")
@@ -214,7 +213,7 @@ def check_original_consistency(original_library: dict[str, list[str]], /) -> Non
     # %% 8.11 网站、网页
     check_eq("gbt7714.8.11.2.2:2", "gbt7714.b.10:9")
 
-    check_eq("gbt7714.8.11.3.2:1", "gbt7714.b.10:4", ignore_space=True)
+    check_eq("gbt7714.8.11.3.2:1", "gbt7714.b.10:4")
     check_eq("gbt7714.8.11.3.2:2", "gbt7714.b.10:6", ignore_space=True)
     check_eq("gbt7714.8.11.3.2:3", "gbt7714.b.10:5", ignore_space=True)
     check_eq("gbt7714.8.11.3.2:4", "gbt7714.b.10:11", ignore_space=True)
@@ -244,8 +243,8 @@ def check_original_consistency(original_library: dict[str, list[str]], /) -> Non
     check_eq("gbt7714.8.13.3:3", "gbt7714.b.12:5")
 
     # %% 8.14 数据集
-    check_eq("gbt7714.8.14.3:1", "gbt7714.b.13:3")
-    check_eq("gbt7714.8.14.3:2", "gbt7714.b.13:5", ignore_space=True)
+    check_eq("gbt7714.8.14.3:1", "gbt7714.b.13:3", ignore_space=True)
+    check_eq("gbt7714.8.14.3:2", "gbt7714.b.13:5")
     check_eq(
         "gbt7714.8.14.3:3",
         "gbt7714.b.13:9",
