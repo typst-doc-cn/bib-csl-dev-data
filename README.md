@@ -26,6 +26,7 @@
 
   - 若用 Zotero 内置功能，则此栏会原样抄录到 BibLaTeX 与 CSL-JSON 的`note`字段，不识别作弊语法。
   - 若用 Better BibTeX 插件，则此栏会先识别作弊语法，再将剩余内容抄录到 BibLaTeX `annotation`字段或 CSL-JSON `note`字段。
+    <!-- TODO: Better BibTeX 的行为可能有变 -->
 
   更多细节请移步 [Zotero](https://www.zotero.org/support/kb/item_types_and_fields#citing_fields_from_extra)、[CSL-JSON](https://citeproc-js.readthedocs.io/en/latest/csl-json/markup.html#cheater-syntax-for-odd-fields)、[Better BibTeX](https://retorque.re/zotero-better-bibtex/exporting/extra-fields/) 相应文档。
 
@@ -49,9 +50,9 @@
 
       留空（默认）或`file,abstract,keywords`，但不可填入`shorttitle`、`note`、`annotation`等
 
-    - [期刊缩写模式 | Journal abbreviation mode](https://retorque.re/zotero-better-bibtex/preferences/export/index.html#journal-abbreviation-mode)
+    - [刊名简称模式 | Journal abbreviation mode](https://retorque.re/zotero-better-bibtex/preferences/export/#journal-abbreviation-mode)
 
-      总是使用 Zotero 缩写字段 | `always use the Zotero abbreviation field`（默认）
+      使用 Zotero 中的刊名简称字段 | `always use the Zotero abbreviation field`（默认）
 
     - BibTeX/BibLaTeX
 
@@ -77,6 +78,14 @@
 
       ☑（默认）
 
+  [杂项 | Miscellaneous](https://retorque.re/zotero-better-bibtex/preferences/miscellaneous/)
+
+  - 字段 | Fields
+
+    - [Treat the `extra` field as a note](https://retorque.re/zotero-better-bibtex/preferences/miscellaneous/#treat-the-extra-field-as-a-note)
+
+      ☐（默认）
+
   </details>
 
 为方便对比，导出后还用[`fmt_data.py`](./scripts/fmt_data.py)统一了条目与字段排列顺序和缩进格式。
@@ -84,7 +93,7 @@
 ## 当前数据版本
 
 - Zotero 9.0.6
-- Better BibTeX for Zotero 9.0.55
+- Better BibTeX for Zotero 9.0.63
 - 群组文库最后修改于 2026-08-14 21:58:42 +08:00
 
 <details>
