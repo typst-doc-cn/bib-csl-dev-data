@@ -8,7 +8,7 @@ https://z-lib.sk/book/Eq8yZgnY5D/gbt-77142025-信息与文献-参考文献著录
 后来改为以2026年8月4日从中国标网购买的电子版 PDF 中嵌入的文本为准。中国标网似乎更换过售卖的文件，虽然两版末页都写「2025年12月第1版」，但8月版似乎经过勘误（参考 Zotero 中文社区以下链接），而且定价从￥76变成了￥87。
 https://github.com/zotero-chinese/styles/wiki/GB-T-7714—2025-勘误
 
-此文件还在各节 notes 记录了抄录特殊情况和以上链接中与此文件有关的非官方勘误（截至 2026-08-06 d1b4ff0）。
+此文件还在各节 notes 记录了抄录特殊情况和以上链接中与此文件有关的非官方勘误（截至 2026-08-17 e318e9e）。
 notes 中所谓「原文」均指以上国标 PDF，而非示例文献的原文。
 
 ## 数据质量差的具体表现
@@ -843,6 +843,9 @@ headings = [
   '9.3.1 正文中的引用',
   '9.3.1.1 正文引用的文献采用著者-出版年制时……',
 ]
+notes = '''
+示例2原文如此，但期刊本名 College & Research Libraries，其中 and 写作 &。
+'''
 examples = '''
 Crane D,1972.Invisible college[M].Chicago:Univ.of Chicago Press.
 Stieg M F,1981.The information needs of historians[J].College and Research Libraries,42 (6):549-560.
@@ -1105,6 +1108,9 @@ headings = [
   'B 顺序编码制参考文献表著录格式示例',
   'B.10 网站、网页',
 ]
+notes = '''
+示例[10]原文如此，不过 homepage 整体作为一个词在今天可能更常见。
+'''
 examples = '''
 [1] 中国科学院文献情报中心.中国科学院科技论文预发布平台[EB/OL].[2025-03-06].https://chinaxiv.org/home.htm.
 [2] 北京鲁迅博物馆(北京新文化运动纪念馆).北京鲁迅博物馆志愿服务章程[EB/OL].(2021-04-21)[2023-05-02].http://www.luxunmuseum.com.cn/html/202104/a11310.htm.

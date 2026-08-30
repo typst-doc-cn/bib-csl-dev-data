@@ -520,7 +520,7 @@
 		"language": "zh-CN",
 		"title": "环境司法制度改革对企业绿色创新的影响：实质性绿色创新还是漂绿？：基于公益诉讼试点的证据",
 		"title-short": "环境司法制度改革对企业绿色创新的影响",
-		"type": "book"
+		"type": "article-journal"
 	},
 	{
 		"id": "gbt7714.7.3:3",
@@ -1054,7 +1054,8 @@
 			}
 		],
 		"citation-key": "gbt7714.7.7:5",
-		"container-title": "ACS Chemical Biology",
+		"container-title": "<span class=\"nocase\">ACS</span> Chemical Biology",
+		"container-title-short": "ACS Chem. Biol.",
 		"DOI": "10.1021/cb3005325",
 		"issue": "3",
 		"issued": {
@@ -1413,6 +1414,7 @@
 			]
 		},
 		"language": "en-US",
+		"note": "https://hdl.handle.net/10657/5097",
 		"page": "61–66",
 		"title": "Cataloging internet resources",
 		"type": "article-journal",
@@ -1871,14 +1873,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1984"
-				],
-				[
-					0
-				]
-			]
+			"literal": "1984/.."
 		},
 		"language": "zh-CN",
 		"publisher": "中华医学会湖北分会",
@@ -1921,14 +1916,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1883"
-				],
-				[
-					0
-				]
-			]
+			"literal": "1883/.."
 		},
 		"language": "en-US",
 		"publisher": "American Association for the Advancement of Science",
@@ -1950,21 +1938,14 @@
 		},
 		"citation-key": "gbt7714.8.4.2:4",
 		"issued": {
-			"date-parts": [
-				[
-					"1979"
-				],
-				[
-					0
-				]
-			]
+			"literal": "1979/.."
 		},
 		"language": "en-US",
 		"publisher": "Taylor & Francis",
 		"publisher-place": "Philadelphia",
 		"title": "Public library quarterly",
 		"type": "periodical",
-		"URL": "http://www.tandfonline.com/loi/wplq",
+		"URL": "http://www.tandfonline.com/journals/wplq20",
 		"volume": "1979，1（1）-"
 	},
 	{
@@ -2350,7 +2331,7 @@
 			}
 		],
 		"citation-key": "gbt7714.8.5.3:8",
-		"container-title": "Bulletin of the Geological Survey of Japan",
+		"container-title": "Bulletin of the Geological Survey of <span class=\"nocase\">Japan</span>",
 		"container-title-short": "Bull. Geol. Surv. Jpn.",
 		"issue": "5/6",
 		"issued": {
@@ -2769,7 +2750,7 @@
 			}
 		],
 		"citation-key": "gbt7714.8.5.3:10",
-		"container-title": "Journal of the Neurological Sciences",
+		"container-title": "J. Neurol. Sci.",
 		"container-title-short": "J. Neurol. Sci.",
 		"DOI": "10.1016/j.jns.2013.11.029",
 		"ISSN": "1878-5883",
@@ -3303,6 +3284,30 @@
 			{
 				"family": "Thompson",
 				"given": "Matthew P."
+			},
+			{
+				"family": "Finney",
+				"given": "Mark A."
+			},
+			{
+				"family": "Lee",
+				"given": "Danny C."
+			},
+			{
+				"family": "Quigley",
+				"given": "Thomas M."
+			},
+			{
+				"family": "McHugh",
+				"given": "Charles W."
+			},
+			{
+				"family": "Riley",
+				"given": "Karin"
+			},
+			{
+				"family": "Gilbertson-Day",
+				"given": "Julie"
 			}
 		],
 		"citation-key": "gbt7714.8.8.3:3",
@@ -3314,6 +3319,7 @@
 			]
 		},
 		"language": "en-US",
+		"note": "10.2737/RMRS-GTR-262",
 		"number": "RMRS-GTR-262",
 		"page": "8–9",
 		"title": "A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report",
@@ -3710,7 +3716,7 @@
 		"language": "en-US",
 		"title": "<span class=\"nocase\">Library of Congress</span>",
 		"type": "webpage",
-		"URL": "https://www.loc.gov/"
+		"URL": "https://www.loc.gov"
 	},
 	{
 		"id": "gbt7714.8.11.3.2:1",
@@ -3784,7 +3790,7 @@
 		"language": "zh-CN",
 		"title": "许振超：“好好干，当一个好工人”",
 		"type": "webpage",
-		"URL": "https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html"
+		"URL": "http://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html"
 	},
 	{
 		"id": "gbt7714.8.11.3.2:4",
@@ -4029,6 +4035,7 @@
 	{
 		"id": "gbt7714.8.13.1:4",
 		"citation-key": "gbt7714.8.13.1:4",
+		"container-title": "Coastal erosion and mitigation in east and southeast Asia",
 		"issued": {
 			"date-parts": [
 				[
@@ -4051,7 +4058,7 @@
 			}
 		],
 		"citation-key": "gbt7714.8.13.3:1",
-		"dimensions": "128cm×84cm",
+		"dimensions": "128 cm×84 cm",
 		"issued": {
 			"date-parts": [
 				[
@@ -4074,7 +4081,7 @@
 			}
 		],
 		"citation-key": "gbt7714.8.13.3:2",
-		"dimensions": "138cm×96cm",
+		"dimensions": "138 cm×96 cm",
 		"issued": {
 			"date-parts": [
 				[
@@ -4584,6 +4591,7 @@
 			]
 		},
 		"language": "zh-CN",
+		"note": "https://www.jlis.cn/jtlsc/ch/reader/view_abstract.aspx?file_no=19960230&flag=1",
 		"page": "24–29",
 		"title": "电子图书馆的现实模型",
 		"type": "article-journal"
@@ -4875,7 +4883,7 @@
 		},
 		"language": "zh-CN",
 		"page": "38–39",
-		"title": "中国的青年刊物：个性特色为本仁",
+		"title": "中国的青年刊物：个性特色为本",
 		"title-short": "中国的青年刊物",
 		"type": "article-journal"
 	},
@@ -6020,14 +6028,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1984"
-				],
-				[
-					0
-				]
-			]
+			"literal": "1984/.."
 		},
 		"language": "zh-CN",
 		"publisher": "中华医学会湖北分会",
@@ -6070,14 +6071,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1883"
-				],
-				[
-					0
-				]
-			]
+			"literal": "1883/.."
 		},
 		"language": "en-US",
 		"publisher": "American Association for the Advancement of Science",
@@ -6099,21 +6093,14 @@
 		},
 		"citation-key": "gbt7714.b.3:4",
 		"issued": {
-			"date-parts": [
-				[
-					"1979"
-				],
-				[
-					0
-				]
-			]
+			"literal": "1979/.."
 		},
 		"language": "en-US",
 		"publisher": "Taylor & Francis",
 		"publisher-place": "Philadelphia",
 		"title": "Public library quarterly",
 		"type": "periodical",
-		"URL": "http://www.tandfonline.com/loi/wplq",
+		"URL": "http://www.tandfonline.com/journals/wplq20",
 		"volume": "1979，1（1）-"
 	},
 	{
@@ -6272,7 +6259,7 @@
 		"page": "93",
 		"title": "从数字地球到智慧地球",
 		"type": "article-journal",
-		"URL": "http://d.g.wanfangdata.com.cn/Periodical_hunandz201010038.aspx",
+		"URL": "https://d.wanfangdata.com.cn/Periodical/hunandz201010038",
 		"volume": "7"
 	},
 	{
@@ -6306,7 +6293,7 @@
 		"page": "17",
 		"title": "探索微观世界的无穷奥秘（科技大观）",
 		"type": "article-newspaper",
-		"URL": "http://paper.people.com.cn/rmrb/html/2022-08/16/nw.D110000renmrb_20220816_3-17.htm"
+		"URL": "http://paper.people.com.cn/rmrb/html/2022-08/16/nw.D110000renmrb_20220816_317.htm"
 	},
 	{
 		"id": "gbt7714.b.4:7",
@@ -6342,7 +6329,7 @@
 		"title": "循证医学研究方法：附视频",
 		"title-short": "循证医学研究方法",
 		"type": "article-journal",
-		"URL": "http://www.cqvip.com/Read/Read.aspx?id=36658332",
+		"URL": "https://qikan.cqvip.com/Qikan/Article/Detail?id=36658332&from=Qikan_Search_Index",
 		"volume": "4"
 	},
 	{
@@ -6498,6 +6485,7 @@
 			]
 		},
 		"language": "en-US",
+		"note": "https://hdl.handle.net/10657/5097",
 		"page": "61–66",
 		"title": "Cataloging internet resources",
 		"type": "article-journal",
@@ -6516,7 +6504,7 @@
 			}
 		],
 		"citation-key": "gbt7714.b.4:13",
-		"container-title": "Bulletin of the Geological Survey of Japan",
+		"container-title": "Bulletin of the Geological Survey of <span class=\"nocase\">Japan</span>",
 		"container-title-short": "Bull. Geol. Surv. Jpn.",
 		"issue": "5/6",
 		"issued": {
@@ -6566,6 +6554,7 @@
 			]
 		},
 		"language": "en-US",
+		"note": "10.1038/359605a0",
 		"page": "605–609",
 		"title": "Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment",
 		"type": "article-journal",
@@ -6595,6 +6584,7 @@
 		"citation-key": "gbt7714.b.4:15",
 		"container-title": "Cataloging & Classification Quarterly",
 		"container-title-short": "Cat. Classif. Q.",
+		"DOI": "10.1080/01639374.2010.508711",
 		"issue": "8",
 		"issued": {
 			"date-parts": [
@@ -7036,7 +7026,7 @@
 			}
 		],
 		"citation-key": "gbt7714.b.4:18",
-		"container-title": "Insect science",
+		"container-title": "Insect Science",
 		"container-title-short": "Insect Sci.",
 		"DOI": "10.1111/1744-7917.13496",
 		"issued": {
@@ -7089,7 +7079,7 @@
 			}
 		],
 		"citation-key": "gbt7714.b.4:19",
-		"container-title": "Journal of electron spectroscopy and related phenomena",
+		"container-title": "Journal of Electron Spectroscopy and Related Phenomena",
 		"container-title-short": "J. Electron Spectrosc. Relat. Phenom.",
 		"ISSN": "0368-2048",
 		"issued": {
@@ -7154,7 +7144,7 @@
 			}
 		],
 		"citation-key": "gbt7714.b.4:20",
-		"container-title": "Journal of the Neurological Sciences",
+		"container-title": "J. Neurol. Sci.",
 		"container-title-short": "J. Neurol. Sci.",
 		"DOI": "10.1016/j.jns.2013.11.029",
 		"ISSN": "1878-5883",
@@ -7537,6 +7527,7 @@
 			]
 		},
 		"language": "en-US",
+		"note": "10.1007/978-81-322-1602-5",
 		"publisher": "Springer",
 		"publisher-place": "New Delhi",
 		"title": "Proceedings of the <span class=\"nocase\">Second International Conference on Soft Computing for Problem Solving</span> (SocProS 2012), December 28-30, 2012",
@@ -7894,6 +7885,30 @@
 			{
 				"family": "Thompson",
 				"given": "Matthew P."
+			},
+			{
+				"family": "Finney",
+				"given": "Mark A."
+			},
+			{
+				"family": "Lee",
+				"given": "Danny C."
+			},
+			{
+				"family": "Quigley",
+				"given": "Thomas M."
+			},
+			{
+				"family": "McHugh",
+				"given": "Charles W."
+			},
+			{
+				"family": "Riley",
+				"given": "Karin"
+			},
+			{
+				"family": "Gilbertson-Day",
+				"given": "Julie"
 			}
 		],
 		"citation-key": "gbt7714.b.7:4",
@@ -7905,6 +7920,7 @@
 			]
 		},
 		"language": "en-US",
+		"note": "10.2737/RMRS-GTR-262",
 		"number": "RMRS-GTR-262",
 		"page": "8–9",
 		"title": "A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report",
@@ -8315,7 +8331,7 @@
 		},
 		"title": "一种拼接式桥梁模型",
 		"type": "patent",
-		"URL": "http://patentscope2.wipo.int/search/en/detail.jsf?docId=CN390029302&_cid=JP1-MAY1P5-04922-1"
+		"URL": "https://patentscope2.wipo.int/search/en/detail.jsf?docId=CN390029302&_cid=JP1-MAY1P5-04922-1"
 	},
 	{
 		"id": "gbt7714.b.9:4",
@@ -8510,9 +8526,9 @@
 		"issued": {
 			"date-parts": [
 				[
-					"2001",
-					6,
-					28
+					"2002",
+					5,
+					23
 				]
 			]
 		},
@@ -8522,9 +8538,9 @@
 		"submitted": {
 			"date-parts": [
 				[
-					"2002",
-					5,
-					23
+					"2001",
+					6,
+					28
 				]
 			]
 		},
@@ -8718,7 +8734,7 @@
 		"language": "zh-CN",
 		"title": "许振超：“好好干，当一个好工人”",
 		"type": "webpage",
-		"URL": "https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html"
+		"URL": "http://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html"
 	},
 	{
 		"id": "gbt7714.b.10:6",
@@ -8818,7 +8834,7 @@
 		"language": "en-US",
 		"title": "<span class=\"nocase\">Library of Congress</span>",
 		"type": "webpage",
-		"URL": "https://www.loc.gov/"
+		"URL": "https://www.loc.gov"
 	},
 	{
 		"id": "gbt7714.b.10:10",
@@ -9056,7 +9072,7 @@
 			}
 		],
 		"citation-key": "gbt7714.b.12:1",
-		"dimensions": "128cm×84cm",
+		"dimensions": "128 cm×84 cm",
 		"issued": {
 			"date-parts": [
 				[
@@ -9079,7 +9095,7 @@
 			}
 		],
 		"citation-key": "gbt7714.b.12:2",
-		"dimensions": "138cm×96cm",
+		"dimensions": "138 cm×96 cm",
 		"issued": {
 			"date-parts": [
 				[
@@ -9102,7 +9118,7 @@
 			}
 		],
 		"citation-key": "gbt7714.b.12:3",
-		"dimensions": "97cm×67cm",
+		"dimensions": "97 cm×67 cm",
 		"issued": {
 			"date-parts": [
 				[
@@ -9127,7 +9143,7 @@
 			}
 		],
 		"citation-key": "gbt7714.b.12:4",
-		"dimensions": "100cm×70cm",
+		"dimensions": "100 cm×70 cm",
 		"issued": {
 			"date-parts": [
 				[
@@ -9268,6 +9284,7 @@
 	{
 		"id": "gbt7714.b.12:10",
 		"citation-key": "gbt7714.b.12:10",
+		"container-title": "Coastal erosion and mitigation in east and southeast Asia",
 		"issued": {
 			"date-parts": [
 				[
@@ -9736,7 +9753,7 @@
 		"publisher": "Global Change Research Data Publishing & Repository",
 		"title": "Long time series nighttime light dataset of China: 2000–2020",
 		"type": "dataset",
-		"URL": "https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1"
+		"URL": "https://geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1"
 	},
 	{
 		"id": "gbt7714.b.13:9",
