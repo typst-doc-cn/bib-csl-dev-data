@@ -91,8 +91,8 @@
 
 ## 当前数据版本
 
-- Zotero 9.0.6
-- Better BibTeX for Zotero 9.0.64
+- Zotero 10.0.6
+- Better BibTeX for Zotero 9.0.71
 - 群组文库最后修改于 2026-08-14 21:58:42 +08:00
 
 <details>
