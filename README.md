@@ -71,7 +71,7 @@
 
     - [对标题应用大小写格式 | Apply title-casing to titles](https://retorque.re/zotero-better-bibtex/preferences/export/#apply-title-casing-to-titles)
 
-      ☑（默认）
+      留空（默认）
 
     - [使用大括号括起首字母大写的单词以保持大小写格式 | Apply case-protection to capitalized words by enclosing them in braces](https://retorque.re/zotero-better-bibtex/preferences/export/#apply-case-protection-to-capitalized-words-by-enclosing-them-in-braces)
 
@@ -91,9 +91,9 @@
 
 ## 当前数据版本
 
-- Zotero 10.0.6
-- Better BibTeX for Zotero 9.0.71
-- 群组文库最后修改于 2026-08-14 21:58:42 +08:00
+- Zotero 10.0.7
+- Better BibTeX for Zotero 9.0.76
+- 群组文库最后修改于 2026-10-20 14:26:56 +08:00
 
 <details>
 <summary>检查更新</summary>
